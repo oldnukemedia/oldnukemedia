@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(255, 191, 0, 1);
+    color: black;
+}
+div{
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+    
+   
+    flex-direction: column;
+}
+p{
+    text-align: center;
+    font-size: 100px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+}
+.container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
